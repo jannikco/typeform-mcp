@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "product": "pipmcp",
+  "credential": "PIPMCP_API_KEY",
+  "skills": [
+    {
+      "name": "pipmcp-typeform",
+      "description": "Connect AI agents to Typeform using one PipMCP API key and actual hosted tool discovery."
+    }
+  ],
+  "files": {
+    "skills/pipmcp-typeform/SKILL.md": "1b0d26ddbee699cce5c8ccb89f043a1a3098749411a1ed3087fc4433c7eaa9b8"
+  }
+}
